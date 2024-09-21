@@ -1,12 +1,12 @@
-        "AboutMyslef"
+# AboutMyself
 I'm Ali and I am a uet student from Pakistan 🇵🇰
 
 ## MyPassion
 I love to code and it is my passion to become a programmer.
 ## ContactMe
-° My Gmail_alizargham587@gmail.com_
+° MyGmail_alizargham587@gmail.com_
 
-° My IG _alizargham783_
+° MyIG _alizargham783_
 
 
 
