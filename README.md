@@ -1,7 +1,8 @@
-##               .........Hi This is Ali.......
+## AboutMyslef
+I'm Ali and I am a uet student and a passionate coder.
 
-##              | ALI IS A CS STUDENT FROM PAKISTAN |
-#### Heading2
+## MyPassion
+I love to code and it is my passion to become a programmer.
 
 
 
