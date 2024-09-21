@@ -1,7 +1,6 @@
-## Hi there 👋
+##               .........Hi This is Ali.......
 
-## Heading1
-
+##              | ALI IS A CS STUDENT FROM PAKISTAN |
 #### Heading2
 
 
