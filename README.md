@@ -1,12 +1,11 @@
-# AboutMyself
-I'm Ali and I am a uet student from Pakistan 🇵🇰
+<h1 align="center">HI THIS IS ALI</h1>
+<h3 align="center">ALI IS A CS STUDENT AND A PASSIONATE CODERR</h3>
 
-## MyPassion
-I love to code and it is my passion to become a programmer.
-## ContactMe
-°MyGmail alizargham587@gmail.com
+- 🌱 I’m currently learning **C++**
 
-°MyIG alizargham783
+- 📫 How to reach me **alizargham587@gmail.com**
+
+
 
 
 
